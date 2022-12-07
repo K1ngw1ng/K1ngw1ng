@@ -6,7 +6,7 @@ Student and Developer
 
 * 🌍  I'm based in California
 * 🧠  I'm learning Python and C
-* 🤝  I'm open to collaborating on I can do HTML and CSS Projects aswell as some JS
+* 🤝  I'm open to collaborating on I can do HTML and CSS Projects aswell as JS 
 
 <a href="https://www.github.com/K1ngwing" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/K1ngwing?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
