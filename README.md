@@ -36,3 +36,5 @@ src="https://img.shields.io/github/followers/K1ngwing?logo=github&style=for-the-
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/K1ngw1ng/count.svg" />
 </p>
+
+<a href=#><img src="contributions.svg"></a>
