@@ -28,10 +28,6 @@ src="https://img.shields.io/github/followers/K1ngwing?logo=github&style=for-the-
 
 <p align="left"> <a href="https://www.github.com/K1ngwing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20401566/kingwing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/K1ngwing" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/K1ngwing"><img src="https://github-readme-streak-stats.herokuapp.com/?user=K1ngwing&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/K1ngw1ng/count.svg" />
