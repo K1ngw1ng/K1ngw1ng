@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and Developer
 ------------------------------
 
-* 🌍  I'm based in California
+* 🌎  I'm based in California
 * 🧠  I'm learning Python and C
 * 🤝  I'm open to collaborating on I can do HTML and CSS Projects aswell as JS 
 
