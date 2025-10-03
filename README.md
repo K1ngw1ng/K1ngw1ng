@@ -5,7 +5,7 @@ Student and Developer
 ------------------------------
 
 * 🌎  I'm based in California
-* 🧠  I'm learning Rust and C
+* 🧠  I'm learning C
 * 🤝  I'm open to collaborating on Python and Web Development Projects
 
 <a href="https://www.github.com/K1ngw1ng" target="_blank" rel="noreferrer"><img
