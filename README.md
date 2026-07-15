@@ -41,7 +41,8 @@
   "languages": ["HTML", "CSS", "JavaScript", "Python"],
   "focus": [
     "web development",
-    "digital preservation",
+    "digital preservation"
+  ]
 }
 ```
 </details>
